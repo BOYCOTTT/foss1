@@ -26,7 +26,9 @@ void main()
 				break;
 			case '2': res =a-b;
 				break;
-		
+			case '3' :
+				res=a*b;
+				break;
 
 				
 		}
