@@ -15,7 +15,7 @@ void main()
 		cout<<"2.Subtraction\n";
 		cout<<"3.Multiplication\n";
 		cout<<"4.Division\n";
-		count<<"5.modulus\n";
+		count<<"5.Modulus\n";
 		cout<<"6.Exit\n\n";
 		cout<<"Enter Your Choice : ";
 		cin>>choice;
