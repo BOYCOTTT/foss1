@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<string.h>
+main()
+{
+	int i,n,j;
+	char arr[10];
+	printf("ENTER THE STRING:");
+	 scanf(" %c ",&arr[i]);
+	for(i=0;i<n;i++)
+	{  
+	 	for(j=n;j>0;j--)
+		{
+			if(arr[i]==arr[n])
+			{
+			printf("pal");
+			}
+		}
+	}
+}
