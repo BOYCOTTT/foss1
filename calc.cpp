@@ -7,8 +7,6 @@ void main()
 	clrscr();
 	float a, b, res;
 	char choice, ch;
-	do
-	{
 		cout<<"enter two number";
 		cin>>a>>b;
 		cout<<"1.Addition\n";
@@ -39,3 +37,5 @@ void main()
 				
 		}
 		cout<<"Result = "<<res;
+	getch();
+}
