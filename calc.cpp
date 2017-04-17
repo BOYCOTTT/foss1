@@ -36,6 +36,8 @@ void main()
 			case '5' :
 				res=a%b;
 				break;
+			default :
+				"number invalid"
 				
 		}
 		cout<<"Result = "<<res;
