@@ -29,7 +29,9 @@ void main()
 			case '3' :
 				res=a*b;
 				break;
-
+			case '4' :
+				res=a/b;
+				break;
 				
 		}
 		cout<<"Result = "<<res;
