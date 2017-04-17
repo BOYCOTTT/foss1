@@ -21,6 +21,6 @@ void noory()
 void main()
 {
 printf("This program is created by amarnath");
-printf("Created on 12/04/2017)";
+printf("Created on 17/04/2017)";
 
 }
