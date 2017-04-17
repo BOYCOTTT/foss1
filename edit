@@ -1,0 +1,25 @@
+#include<stdio.h>
+
+void akshaya()
+{
+  printf("Edited by akshaya");
+}
+void akhila()
+{
+  printf("Program is edited by akhila");
+}
+void ansiya()
+{
+  printf("program is edited by ansiya");
+}
+void noory()
+{
+  printf("program is edited by noory");
+ }
+
+
+void main()
+{
+printf("This program is created by amarnath");
+printf("Created on 17/04/2017)";
+}
