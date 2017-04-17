@@ -41,3 +41,9 @@ void main()
 				
 		}
 		cout<<"Result = "<<res;
+		cout<<"Do u nwant to continue..(y/n)";
+		cin>>ch;
+	}while(ch=='y' || ch =='Y')
+	
+	getch();
+}
