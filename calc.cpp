@@ -15,7 +15,8 @@ void main()
 		cout<<"2.Subtraction\n";
 		cout<<"3.Multiplication\n";
 		cout<<"4.Division\n";
-		cout<<"5.Exit\n\n";
+		count<<"5.modulus\n";
+		cout<<"6.Exit\n\n";
 		cout<<"Enter Your Choice : ";
 		cin>>choice;
 		switch(choice)
@@ -31,6 +32,9 @@ void main()
 				break;
 			case '4' :
 				res=a/b;
+				break;
+			case '5' :
+				res=a%b;
 				break;
 				
 		}
