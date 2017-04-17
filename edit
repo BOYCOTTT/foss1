@@ -22,5 +22,4 @@ void main()
 {
 printf("This program is created by amarnath");
 printf("Created on 17/04/2017)";
-
 }
